@@ -31,12 +31,10 @@ Prerequisites
  6. Android/iOS development environment (VS Code or Android Studio)
 
 How to setup project locally
-Clone the Repository
-   git clone https://github.com/Ayeshaa-Aslam/Uber-Clone-App
-   cd uber-clone
-Set Up Firebase
-Set Up Google Maps API
-Run the App
+1. Clone the Repository
+2. Set Up Firebase
+3. Set Up Google Maps API
+4. Run the App
 
 
 
